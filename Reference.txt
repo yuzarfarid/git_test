@@ -1,0 +1,6 @@
+References
+
+HTML https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+CSS https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
+JavaScript https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+jQuery http://api.jquery.com/
